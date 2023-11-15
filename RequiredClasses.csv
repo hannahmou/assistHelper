@@ -1,0 +1,26 @@
+Campus,Major,Class,Required,Taken
+UC Berkeley,Computer Science,IGETC,Required,Untaken
+UC Berkeley,Computer Science,CS41,Optional,Untaken
+UC Berkeley,Computer Science,MATH3A,Optional,Untaken
+UC Berkeley,Computer Science,MATH3B,Optional,Untaken
+UC Berkeley,Computer Science,MATH4A,Optional,Untaken
+UC Berkeley,Computer Science,MATH24,Optional,Untaken
+UC Berkeley,Computer Science,MATH26,Optional,Untaken
+UC Berkeley,Data Science,IGETC,Required,Untaken
+UC Berkeley,Data Science,MATH3A,Optional,Untaken
+UC Berkeley,Data Science,MATH3B,Optional,Untaken
+UC Berkeley,Data Science,MATH24,Optional,Untaken
+UC Berkeley,Data Science,MATH26,Optional,Untaken
+UC Berkeley,Data Science,ENGR20,Optional,Untaken
+UC Berkeley,Data Science,CS41,Optional,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,MATH3A,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,MATH3B,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,MATH4A,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,MATH24,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,MATH26,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,PHYS4A,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,PHYS4B,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,WR1,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,WR2,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,BIO81/BIO80/CHEM1A/CHEM1B/CHEM12A/CHEM12B/BIO12/PHYS4C,Required,Untaken
+UC Berkeley,Electrical Engineering & Computer Sciences,CS41,Optional,Untaken

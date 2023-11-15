@@ -1,0 +1,14 @@
+﻿x put all classes in the listbox on form 2
+x compare taken classes with required classes
+x fix selecting major highlight getting not highlighed after clicking away 
+
+TODO
+- insert gpa calculator with remaining classes and honors to honors 
+- manually input all classes for other majors/campuses
+- insert schedule builder (just based on credits) with max of 19 units 
+- export list of classes to take 
+- IGETC COMPLETION CLASSES LIST?
+
+OPTIONAL
+- sort with untaken at the top
+- make checkboxes visible, check the completed classes so easier to see 
